@@ -1,0 +1,22 @@
+[
+  {
+    "verdict": "gaps",
+    "assessment": "Strong index, not a fame list — most entries pair companies/galleries with real design specifics (hex codes, type, animation libs), plus counter-trends, regional scenes, and honest 'unconfirmed' flags. But a few load-bearing 2026 reference points are missing, and coverage skews desktop-hero-heavy."
+  },
+  {
+    "verdict": "gaps",
+    "assessment": "Rich trend/company-site corpus (350 entries): type foundries, motion (GSAP/WebGL), color/dark-mode, bento, AI-slop backlash. But built from a \"funded-startup marketing site\" lens, not \"design-system product site\" lens. Astryx's real peers (design-system sites, component-library sites, docs-as-product) are nearly absent — only 21st.dev, neobrutalism.dev, DESIGN.md Library brush it."
+  },
+  {
+    "verdict": "gaps",
+    "assessment": "Verified 3 surprising claims (Hallucinate viral crash, Together AI $800M/$8.3B round, Anthropic SKILL.md 277k installs) — all real. Award/metric claims (Awwwards scores, view counts, HN/PH ranks) check out. But most rows are undifferentiated fresh-funding blurbs with zero virality evidence, dressed as \"hot\" — recency, not verified spread."
+  },
+  {
+    "verdict": "gaps",
+    "assessment": "Index is exhaustive on visual-trend documentation but thin on evidence a page's design drove signups/virality vs. press admiration. Conversion \"data\" is mostly secondhand agency-blog stats, not primary A/B tests. Waitlist virality, pricing-page patterns, and launch-day funnel anatomy are missing despite indexing apps that likely used them."
+  },
+  {
+    "verdict": "gaps",
+    "assessment": "Deep and current overall (June-July 2026 sourcing, self-corrects on conflicts, strong counter-trend coverage). But it's AI-startup-saturated; region/sector/cohort axes named in the brief have real holes, not just thin sampling."
+  }
+]
